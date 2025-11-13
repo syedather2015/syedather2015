@@ -1,4 +1,3 @@
-<div align="center">
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px"/> 
   Hi, I'm <a href="https://github.com/syedather2015"><strong>Ather</strong></a>!
@@ -7,7 +6,6 @@
 
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="Animated developer working with data visualization"/>
-</div>
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px"/> Turning raw data into insights and automation that matter.</div>
 
