@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="[#](https://media.licdn.com/dms/image/v2/D4D16AQFa-0oLVR2O9A/profile-displaybackgroundimage-shrink_350_1400/B4DZiUzLcaGsAY-/0/1754843104404?e=1764806400&v=beta&t=oLYdQ041K8InXrDMhT4xpe7i5Urz5iV6088GMzVjENE)" alt="GitHub Banner showcasing professional data profile" width="100%">
-</div>
-
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px"/> 
   Hi, I'm <a href="https://github.com/syedather2015"><strong>Ather</strong></a>!
