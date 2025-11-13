@@ -1,6 +1,6 @@
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px"/> 
-  Hi, I'm <a href="https://github.com/syedather2015"><strong>Ather</strong></a>!
+  Hi, I'm <a href="https://github.com/syedather2015"><strong>Syed Ather Rizvi</strong></a>!
   <img align="right" src="https://komarev.com/ghpvc/?username=syedather2015" alt="GitHub profile views counter">
 </h1>
 
